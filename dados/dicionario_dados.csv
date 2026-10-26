@@ -1,0 +1,8 @@
+﻿coluna,descrição
+id_cobranca,Identificador fictício único da cobrança
+condominio_id,"Código fictício do condomínio, sem nome real"
+competencia,Mês de referência no formato AAAA-MM
+data_vencimento,Data simulada de vencimento
+valor_cobrado,Valor monetário simulado em reais
+data_pagamento,Data simulada de pagamento; vazia quando não pago
+status,"Situação simulada: Pago, Pendente ou Vencido"
